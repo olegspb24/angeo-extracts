@@ -1,4 +1,4 @@
-﻿type HeaderProps = { className?: string };
+type HeaderProps = { className?: string };
 
 export default function Header({ className }: HeaderProps) {
   return (
