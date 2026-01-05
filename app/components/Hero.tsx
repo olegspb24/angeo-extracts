@@ -1,4 +1,6 @@
-﻿export default function Hero() {
+﻿import Image from 'next/image';
+
+export default function Hero() {
   return (
     <section className="relative bg-gradient-to-r from-orange-500 to-amber-400 text-white">
       <div className="container mx-auto px-6 py-24 text-center">
